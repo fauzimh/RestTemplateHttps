@@ -1,4 +1,4 @@
-#Rest Template with Https
+# Rest Template with Https
 
 This repo demonstrate how to use RestTemplate to call https and http.
 
@@ -6,14 +6,14 @@ This maven project contains 2 sub-modules:
 - rest-template-client
 - rest-template-server
 
-##Rest Template Server
+## Rest Template Server
 rest-template-server runs on 2 ports: 
 - Port 443 for https
 - Port 80 for http
 
 Server does not authenticate client
 
-##Rest Template Client
+## Rest Template Client
 rest-template-client will call both https and https.
 
 When calling https, client: 
