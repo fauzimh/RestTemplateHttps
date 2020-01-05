@@ -1,0 +1,1 @@
+keytool -genkey -alias client -storepass client -keystore client.p12 -storetype PKCS12 -keyalg RSA -validity 9999 -keysize 2048

@@ -1,0 +1,40 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+logs
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.rar
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/*
+
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+# Node Dependency directories
+node_modules/
+
+# C sharp ignore list
+bin/
+obj/
+packages/
+*.suo

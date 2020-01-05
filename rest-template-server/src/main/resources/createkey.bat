@@ -1,0 +1,1 @@
+keytool -genkey -alias server -storepass server -keystore server.p12 -storetype PKCS12 -keyalg RSA -validity 9999 -keysize 2048
